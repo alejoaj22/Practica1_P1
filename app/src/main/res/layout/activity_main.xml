@@ -209,7 +209,7 @@
                         android:layout_height="match_parent"
                         android:textColor= "@color/black"
                         android:text="@string/Alto"
-                        android:textSize = "25sp"
+                        android:textSize = "24sp"
                         android:gravity="center"
                         />
                     <EditText
