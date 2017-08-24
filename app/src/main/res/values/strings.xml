@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica1_P1</string>
+    <string name="Cubo">Cubo</string>
+    <string name="Triangulo">Triangulo</string>
+    <string name="Cuadrado">Cuadrado</string>
+    <string name="Circulo">Circulo</string>
+    <string name="Radio">Radio: </string>
+    <string name="Lado1">Lado 1:</string>
+    <string name="Lado2">Lado 2:</string>
+    <string name="Altura">Altura:</string>
+    <string name="Base">Base:</string>
+    <string name="Ancho">Ancho:</string>
+    <string name="Alto">Alto:</string>
+    <string name="inserte">Inserte valor en centimetros</string>
+    <string name="Calcular">Calcular</string>
+</resources>
