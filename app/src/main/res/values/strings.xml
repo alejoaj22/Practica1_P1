@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Practica1_P1</string>
+    <string name="app_name">Calculadora de figuras</string>
     <string name="Cubo">Cubo</string>
     <string name="Triangulo">Triangulo</string>
     <string name="Cuadrado">Cuadrado</string>

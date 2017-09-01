@@ -273,7 +273,7 @@
                         android:layout_height="match_parent"
                         android:id="@+id/bCalcular"
                         android:textColor="@color/white"
-                        android:background="@color/blueviolet"
+                        android:background="@color/red"
                         android:text="@string/Calcular"
                         android:onClick="CbCaclular"
                         />
