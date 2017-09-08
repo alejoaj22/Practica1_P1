@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else if (id == R.id.rCubo){
             visibilidad(4);
-            img.setImageResource(R.drawable.triangulo);
+            img.setImageResource(R.drawable.cubo);
             flag = 4;
             Resultado.setText("");
         }
